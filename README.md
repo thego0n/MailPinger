@@ -8,3 +8,7 @@ the next version will have multiple account handling, proxies &amp; multiple tar
 usage python MailPinger.py
 
 usage python3 MailPinger.py
+
+
+
+-----thego0n@MaL7------
