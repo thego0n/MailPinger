@@ -1,4 +1,4 @@
-# MailPinger
+# MailPinger v0.8
 
 
 
