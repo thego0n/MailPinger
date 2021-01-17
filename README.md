@@ -2,7 +2,8 @@
 
 
 
-Will just send emails to an address rapidly using googles SMTP. Google will stop you sending emails after around 300. this was built with burn accounts in mind. So the next version will have multiple account handling, proxies & multiple targets. (WIP)
+Will just send emails to an address rapidly using googles SMTP. Google will stop sending emails after around 300. this was built with burn accounts in mind. 
+The next versions will have automatic multiple account handling, proxies & multiple targets. (WIP)
 
 usage python MailPinger.py
 
